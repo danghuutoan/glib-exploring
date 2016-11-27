@@ -1,1 +1,2 @@
-# glib-exploring
+# hello_world
+test linaro tool chain
